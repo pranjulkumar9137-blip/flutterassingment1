@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "84401269970",
+    "project_id": "tutedude-todo-app",
+    "storage_bucket": "tutedude-todo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84401269970:android:221a90976f272f9af4110b",
+        "android_client_info": {
+          "package_name": "com.example.assignment14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBjuDFMtqAmEBr5TXOhjeNk70tud90-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84401269970:android:d9bc9d57b5420cf8f4110b",
+        "android_client_info": {
+          "package_name": "com.example.todo_reminder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBjuDFMtqAmEBr5TXOhjeNk70tud90-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
